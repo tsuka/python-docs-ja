@@ -340,7 +340,7 @@ msgid ""
 "Run :ref:`awaitable objects <asyncio-awaitables>` in the *aws* sequence "
 "*concurrently*."
 msgstr ""
-"*aws* シーケンスにある :ref:`awaitable オプジェクト <asyncio-awaitables>` を *並行* 実行します。"
+"*aws* シーケンスにある :ref:`awaitable オブジェクト <asyncio-awaitables>` を *並行* 実行します。"
 
 #: ../../library/asyncio-task.rst:325
 msgid ""
@@ -407,7 +407,7 @@ msgid ""
 "Protect an :ref:`awaitable object <asyncio-awaitables>` from being "
 ":meth:`cancelled <Task.cancel>`."
 msgstr ""
-":meth:`キャンセル <Task.cancel>` から :ref:`awaitable オプジェクト <asyncio-awaitables>` "
+":meth:`キャンセル <Task.cancel>` から :ref:`awaitable オブジェクト <asyncio-awaitables>` "
 "を保護します。"
 
 #: ../../library/asyncio-task.rst:401 ../../library/asyncio-task.rst:441
